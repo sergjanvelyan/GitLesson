@@ -1,1 +1,1 @@
-func nain(){}
+func main(){}
